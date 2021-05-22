@@ -1,0 +1,12 @@
+.input {
+	margin: 5px;
+	padding: 10px;
+}
+
+.seleccion {
+	color: #aaa;
+}
+
+.seleccion b {
+	color: red;
+}

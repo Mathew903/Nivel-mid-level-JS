@@ -1,0 +1,41 @@
+body {
+	color: #ccc;
+	font-family: sans-serif;
+}
+
+div {
+	margin: 5px;
+	text-align: center;
+}
+
+#getName,
+#getAge {
+	margin: 20px;
+	font-size: 30px;
+	color: #48e;
+	border: 1px solid #48e;
+	border-radius: 25px;
+	padding: 15px;
+}
+
+#getName:hover,
+#getAge:hover {
+	background: #48e;
+	color: #fff;
+}
+
+.nombre,
+.edad {
+	display: inline-block;
+	color: #fff;
+	padding: 15px;
+	background: #000;
+	border: 2px solid #000;
+	border-radius: 25px;
+	font-size: 40px;
+}
+
+.nombre {
+	background: #b00;
+	color: #fff;
+}
